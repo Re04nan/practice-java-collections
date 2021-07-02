@@ -1,3 +1,5 @@
+package interfaceList;
+
 import java.util.*;
 
 public class ExempleList {
